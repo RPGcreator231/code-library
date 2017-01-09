@@ -1,0 +1,7 @@
+input ('Enter your name:')
+print ('Stranger:Hello')
+input ('Stranger:Where are you from?')
+print ('Stranger:EARTH!WHERE IN THE WORLD IS THAT??!')
+input ('voice in your head:tell him y/n')
+if answer is n print ('never mind')
+elif answer is y print ('Another galaxy!!')
